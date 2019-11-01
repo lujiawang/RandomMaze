@@ -3,6 +3,9 @@ Lujia Wang and Shuning Dong work on this lab together.
 02/01/2019
 
 To run online, using Chrome, go to http://htmlpreview.github.io/?https://github.com/lujiawang/RandomMaze/blob/master/index.html 
+Part of the code are in the Code samples folder.
+
+
 
 
 /* The following setting are already been settled in submission */
